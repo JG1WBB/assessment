@@ -1,0 +1,16 @@
+body{
+    background-color: #04A6EB;
+    color: #FDFFFF;/*からーすきーむを使うとおしゃれらしい*/
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    padding: 5px 20px;/*上下 左右の順。paddingは要素の内側、margineは要素の外側*/
+    color: #FDFFFF;
+    background-color: lightskyblue;
+    border-style: none;
+}
+input{
+    height: 24px;
+}
