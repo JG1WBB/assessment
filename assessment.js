@@ -52,8 +52,6 @@ assessmentButton.onclick = function () {//無名関数の定義
     const header = document.createElement('h3');//新しい要素の作成
     header.innerText = '診断結果';
     resultDivided.appendChild(header);
-
-
 };
 
 const answers = [
